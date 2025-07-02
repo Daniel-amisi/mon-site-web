@@ -1,1 +1,103 @@
-# mon-site-web
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Poèmes d'Amour</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Poèmes d'Amour A mon amour Key</h1>
+    <p class="slogan">Des mots doux pour les cœurs tendres</p>
+  </header>
+
+  <main>
+
+    <section class="poem">
+      <h2>À Toi, Mon Étoile</h2>
+      <p>
+        Dans la nuit douce où tout s'endort,<br>
+        Ton nom résonne encore et encore.<br>
+        Mon cœur soupire, il bat pour toi,<br>
+        Dans chaque rêve, je te vois.
+      </p>
+    </section>
+
+    <section class="poem">
+      <h2>Le Souffle de Ton Amour</h2>
+      <p>
+        Un vent léger caresse ma joue,<br>
+        Comme ton souffle, si tendre, si doux.<br>
+        Chaque mot que tu me dis<br>
+        Me peint des aurores infinies.
+      </p>
+    </section>
+
+    <section class="poem">
+      <h2>Un Regard, Une Vie</h2>
+      <p>
+        Ton regard éclaire mes jours sombres,<br>
+        Il me redonne vie, chasse les ombres.<br>
+        Juste un sourire, et tout s’illumine,<br>
+        Ton amour est ma plus belle rime.
+      </p>
+    </section>
+
+    <section class="poem">
+      <h2>Ton Nom</h2>
+      <p>
+        Ton nom danse sur mes lèvres closes,<br>
+        Comme un secret, une douce prose.<br>
+        Il résonne en moi comme une chanson,<br>
+        Écrite au rythme de mes passions.
+      </p>
+    </section>
+
+    <section class="poem">
+      <h2>L’Étreinte du Cœur</h2>
+      <p>
+        Même loin, je sens ta présence,<br>
+        Une chaleur douce, pleine d’essence.<br>
+        Ton amour me guide dans la nuit,<br>
+        Vers toi, toujours, mon âme fuit.
+      </p>
+    </section>
+
+    <section class="poem">
+      <h2>Lettre à Mon Amour</h2>
+      <p>
+        Si les mots pouvaient tout dire,<br>
+        Je t’écrirais mille soupirs.<br>
+        Mais seul mon cœur saura crier<br>
+        Combien je peux t’aimer, t’aimer.
+      </p>
+    </section>
+
+    <section class="poem">
+      <h2>Chaque Instant</h2>
+      <p>
+        Chaque instant passé près de toi<br>
+        Est un trésor que je garde en moi.<br>
+        Ton rire est mon plus beau matin,<br>
+        Ton amour, mon plus doux chemin.
+      </p>
+    </section>
+
+    <section class="poem">
+      <h2>Éternelle Promesse</h2>
+      <p>
+        Je te promets des nuits d’étoiles,<br>
+        Des jours paisibles sans voiles.<br>
+        Main dans la main, cœur contre cœur,<br>
+        Je t’aimerai au fil des heures.
+      </p>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>&copy; 2025 - Poèmes d'Amour. Tous droits réservés.</p>
+  </footer>
+</body>
+</html>
